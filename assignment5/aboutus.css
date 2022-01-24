@@ -1,0 +1,20 @@
+
+.about{
+    justify-content: space-around;
+    background-color:black;
+    color: yellow;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+
+}
+.about pre{
+    font-size: large;
+    text-align: center;
+    padding-right: 2in;
+}
+.about h1{
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}

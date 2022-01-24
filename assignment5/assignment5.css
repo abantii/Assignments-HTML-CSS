@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+.navbar{
+    justify-content: space-around;
+    background-color: yellow;
+    display: flex;
+    text-align: center;
+}
+.navbar #navlogo{
+    width: 100px;
+    padding: 5px;
+}
+.navbar ul{
+    list-style-type: none;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar ul li a{
+    text-decoration: none;
+    padding: 10px;
+}
+.navbar ul li a:hover{
+    color: coral;
+}
+.navbar #heading{
+    color: darkblue;
+}
+.container #brand{
+    width: 500px;
+    padding: 5px;
+}
+.container h1{
+    text-align: center;
+    color: maroon;
+    text-size-adjust:large;
+}
+.container #us{
+    float: left;
+    padding: 10px;
+    border: yellow;
+    background-color: mediumpurple;
+}
+
+.container #map{
+    float: right;
+    width: min-content;
+}
+.container{
+    background-color: wheat;
+}
